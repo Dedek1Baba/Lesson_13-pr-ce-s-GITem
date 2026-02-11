@@ -1,10 +1,9 @@
 #!/bin/bash
 
 function pozdrav() {
-    echo "Ahoj World"
+   echo "Hello World"
 }
-
-echo "začátek"
+echo "Začátek"
 pozdrav
-#echo "konec"
+#echo "Konec"
 echo "End"
