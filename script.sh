@@ -1,9 +1,8 @@
 #!/bin/bash
 
 function foo() {
-   #todo
+   echo "Hello World"
 }
-echo "neco"
 echo "Začátek"
 foo
 echo "Konec"
