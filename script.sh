@@ -1,9 +1,9 @@
 #!/bin/bash
 
 function hello() {
-    echo "Hello World"
+    echo "Hello world"
 }
 
-echo "start"
+echo "začátek"
 hello
-echo "end"
+echo "konec"
