@@ -1,8 +1,8 @@
 #!/bin/bash
 
-function print_joke () {
+function say_joke () {
     echo "HAHHAHAHAHAHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAH"
     echo "MEHEHEHEHEHEHEHEHEHEHEHE"
 }
 
-print_joke
+say_joke
